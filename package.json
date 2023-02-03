@@ -1,18 +1,18 @@
 {
-  "name": "goit-js-hw-08-",
+  "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/JuliaNychyporuk/goit-js-hw-08-.git/",
+  "homepage": "https://Immayou.github.io/Immayou-goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JuliaNychyporuk/goit-js-hw-08-/"
+    "build": "parcel build src/*.html --public-url /Immayou-goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuliaNychyporuk/goit-js-hw-08-.git"
+    "url": "git+https://github.com/Immayou/Immayou-goit-js-hw-08"
   },
   "keywords": [],
-  "author": "Julia Nychyporuk <martinenko0516@gmail.com>",
+  "author": "Yuliya Zozulya <djulia@ukr.net>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
