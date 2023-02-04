@@ -2,14 +2,14 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://JuliaNychyporuk.github.io/JuliaNychyporuk-goit-js-hw-08-",
+  "homepage": "https://JuliaNychyporuk.github.io/goit-js-hw-08-",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url/JuliaNychyporuk-goit-js-hw-08-/"
+    "build": "parcel build src/*.html --public-url/goit-js-hw-08-/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuliaNychyporuk/JuliaNychyporuk-goit-js-hw-08-"
+    "url": "git+https://github.com/JuliaNychyporuk/goit-js-hw-08-.git"
   },
   "keywords": [],
   "author": "Julia Nychyporuk <martinenko0516@gmail.com>",
